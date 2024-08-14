@@ -1,0 +1,8 @@
+[submodule "nmbroker"]
+	path = nmbroker
+	url = https://github.com/Sean-C-Crandall/Nutmeg.git
+
+[submodule "nmgui"]
+	path = nmgui
+	url = https://github.com/Sean-C-Crandall/Nutmeg.git
+
